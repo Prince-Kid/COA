@@ -27,13 +27,13 @@ Ensure you have the following software installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Prince-Kid/COA-Challenge.git
+   git clone https://github.com/Prince-Kid/COA.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd COA-Challenge
+   cd COA
    ```
 
 3. Install the dependencies:
