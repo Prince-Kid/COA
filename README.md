@@ -36,16 +36,6 @@ Ensure you have the following software installed on your machine:
    cd COA
    ```
 
-3. Install the dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Start the application:
-   ```bash
-   npm start
-   ```
 
 ## Interactive Photo Gallery
 
